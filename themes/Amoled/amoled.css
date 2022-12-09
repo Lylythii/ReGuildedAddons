@@ -12,9 +12,28 @@
 .ChatChannelListItem-container { border-radius: 5px; }
 .ChatChannelContents-container { background: #000; }
 
+/* UI & Menu */
+.ActionMenu-container{background: #000}
+.ContextMenu-action-menu{background: #000}
+.GroupAvatarTextLabel-layer{background: #000}
+.PersistentUpsell-container{background: #000}
+.FormSection-container{background: #000}
+.WebAppV2-container{background: #000}
+
 /* User Area */
 .NavV4Footer-footer-content { background: #000; }
 .NavV4Footer-right { background: #000; }
+
+/* Forms */
+.DefaultReadonlyEditableForm-container { background: #000; }
+
+/* Blogs */
+.BlogPage-container{background: #000}
+
+/* Landing Page */
+.LandingPageV3Footer-container{background: #000}
+.LandingPageV3Footer-trendy-slash{background: #000}
+.LandingPageV3Footer-footer-content{background: #000}
 
 /* Guild List */
 .NavV4TeamSelector-container { background: #000; }
