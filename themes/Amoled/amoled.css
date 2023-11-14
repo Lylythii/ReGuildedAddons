@@ -1,7 +1,5 @@
 /* ---- Lylythii's Amoled ReGuilded Theme ---- */
 
-
-
 /* Navigation */
 .GroupSelector-container { background-color: #000; --border-color: #000; }
 .TeamNavMenu-container { background-color: #000; }
@@ -19,6 +17,29 @@
 .PersistentUpsell-container{background: #000}
 .FormSection-container{background: #000}
 .WebAppV2-container{background: #000}
+.ChannelUpsell-container{background: #000}
+.DraftInputWithTitleV2-title-wrapper{background: #000}
+.CardWrapper-container{background: #00000090}
+.SocialLinkPanel-header {background: #000}
+.CheckboxPanel-container-selected {background: #000}
+.RadioOptionPanel-container-selected {background: #212328}
+.GroupSettingsPanel-container {background: #000}
+.TeamBotsManagerSidebar-container {background: #000}
+.UserCTAPanel-container {background: #000}
+.TeamBotsManagerBotApi-cta {background: #000}
+.TeamBotsManagerBotApi-publish {background: #000}
+.BotInfoBody-container {background: #212328}
+.TeamBotsManagerBotSettings-delete {background: #212328}
+.CopyableTextbox-container {background: #000}
+.BotInfoHeaderBanner-image {background: #00000090}
+.GlassySplashHeader-image-wrapper {background: #00000090}
+.UserSocialGameSummary-item {background: #000}
+.ExplorePageV2-content-container {background: #000}
+
+/* Server Subscriptions*/
+.ServerSubscriptionsManageTierSettingsCard-container {background: #131313}
+.ServerSubscriptionsReports-earnings-wrapper {background: #131313}
+.ServerSubscriptionsSettings-container {background: #131313}
 
 /* User Area */
 .NavV4Footer-footer-content { background: #000; }
@@ -70,6 +91,7 @@
 .ScreenHeader-container { background: #000; }
 .ScreenHeader-container-desktop { background: #000; }
 .ChannelHeader-container { background: #000; }
+.ModalHeaderV2-container { background: #000; }
 
 /* Members List Container */
 .TeamPageSidebarMembersV2-container { background: #000; }
@@ -99,3 +121,12 @@
 /* User Profile Feed */
 .PostDisplayV2-container { background: #000; }
 .PostDisplayV2-container-size-md { background: #000; }
+.UserProfileV3-container-thick-scrollbar { background-color: #000; }
+
+/* Games */
+.PlayerCardGameInfo-container { background-color: #00000090; }
+.UserRichSocialLink-container { background-color: #000; }
+
+/* Servers */
+.TeamCardV2-content { background-color: #00000090; }
+.TeamNavHeader-content { background-color: #00000090; }
