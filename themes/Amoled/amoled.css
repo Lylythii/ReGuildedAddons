@@ -153,3 +153,14 @@
 /* Servers */
 .TeamCardV2-content { background-color: #00000090; }
 .TeamNavHeader-content { background-color: #00000090; }
+
+
+
+/* Special */
+[class*=ProfileHoverCardOverlay-container]:has([src*="https://img.guildedcdn.com/UserBanner/e1972d1b14d57a0c63c3b08f6254ac7e-Hero.png"]) {
+    background-color: rgb(60, 0, 88);
+    background-image: url(https://preview.redd.it/ucr101b1amf81.jpg?width=960&crop=smart&auto=webp&s=21b1cd0c616a354a81b5fb173c9ed0a58d9cb679);
+}
+[src*="https://img.guildedcdn.com/UserBanner/e1972d1b14d57a0c63c3b08f6254ac7e-Hero.png"] {
+    content: url(https://cdn.discordapp.com/attachments/1144338815448797285/1174105335674441828/SSLSP12.png);
+}
