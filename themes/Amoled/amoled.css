@@ -41,6 +41,10 @@
 .ServerSubscriptionsManageTierSettingsCard-container {background: #131313}
 .ServerSubscriptionsReports-earnings-wrapper {background: #131313}
 .ServerSubscriptionsSettings-container {background: #131313}
+.ServerSubscriptionsSectionAdminHasSetup-earnings {background: #131313}
+.ServerSubscriptionsInviteUpsell-container {background: #131313}
+.ServerSubscriptionsTierUpsellCards-empty-wrapper {background: #131313}
+.ServerSubscriptionsRecentActivityFeed-empty-wrapper {background: #131313}
 
 /* User Area */
 .NavV4Footer-footer-content { background: #000; }
