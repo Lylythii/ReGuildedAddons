@@ -36,6 +36,22 @@
 .UserSocialGameSummary-item {background: #000}
 .ExplorePageV2-content-container {background: #000}
 .ChatChannelInputStatusBar-container {background: #000}
+.TeamApplicationInlineLink-container {background: #000}
+.OpenGraphEmbedContent-container {background: #000}
+.QuickActionBar-container {background: #000}
+.ChannelTitleInput-container {background: #000}
+
+/* Reaction Picker */
+.StatusContext-container {
+    border-width: 0.2rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: #212328;
+}
+.ItemPickerNavbar-container {background: #000}
+.ReactionPicker-content {background: #000}
+.ReactionPicker-search {background: #000}
+.ReactionPickerFooter-container {background: #000}
 
 /* Server Subscriptions*/
 .ServerSubscriptionsManageTierSettingsCard-container {background: #131313}
@@ -78,6 +94,8 @@
 .SearchBarV2-container-unfocused { background: #000; }
 .SearchBarV2-container-focused { background: #000; }
 .MinimalNavSearchBar-search-bar { background: #000; }
+.SearchBarV2-container, .SearchBarV2-input {background: #000}
+.SearchBarV2-container:hover, .SearchBarV2-input:hover {background: #000}
 
 /*
 .SVGIcon-container { background: #000; }
