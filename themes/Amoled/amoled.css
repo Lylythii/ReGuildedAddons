@@ -9,6 +9,7 @@
 .ChatChannelList-container { background: #000; --border-color: #000; }
 .ChatChannelListItem-container { border-radius: 5px; }
 .ChatChannelContents-container { background: #000; }
+.TeamOverviewContentItemCard-container { background: #000; }
 
 /* UI & Menu */
 .ActionMenu-container{background: #000}
@@ -40,6 +41,11 @@
 .OpenGraphEmbedContent-container {background: #000}
 .QuickActionBar-container {background: #000}
 .ChannelTitleInput-container {background: #000}
+.ChannelActivityDisplayHeader-container {background: #000}
+.Scrollable-container-micro-scrollbar {background: #000}
+.ChannelActivityDisplay-group-header {background: #000}
+.ChannelActivityItem-container {background: #000}
+.SearchBarInput-input {color: #000}
 
 /* Reaction Picker */
 .StatusContext-container {
@@ -94,8 +100,6 @@
 .SearchBarV2-container-unfocused { background: #000; }
 .SearchBarV2-container-focused { background: #000; }
 .MinimalNavSearchBar-search-bar { background: #000; }
-.SearchBarV2-container, .SearchBarV2-input {background: #000}
-.SearchBarV2-container:hover, .SearchBarV2-input:hover {background: #000}
 
 /*
 .SVGIcon-container { background: #000; }
